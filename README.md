@@ -13,6 +13,7 @@ Amazon Alexa Skills Lambda Functions
 
 ## Reference
 - [Amazon Alexa!](alexa.amazon.com)
+- [Medium](www.medium.com)
 
 ## Contributer
 - Vipin Kumar 
