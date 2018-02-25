@@ -1,4 +1,7 @@
-
+'''
+Objective         : Define a lambda function for Alexa Skill. 
+Author            : Vipin Kumar 
+'''
 import random
 
 greatInventions = [
