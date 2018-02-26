@@ -126,6 +126,7 @@ def handleSessionEndRequest():
         
 def lambda_handler(event, context):
     # TODO implement
+    # The main funtion to be called in any Alexa Skill
     if event['request']['type'] == "LaunchRequest" :
         return onLaunch(event['request'], event['session'])
     elif event['request']['type'] == "IntentRequest" :
