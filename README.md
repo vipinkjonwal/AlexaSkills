@@ -6,7 +6,7 @@ Amazon Alexa Skills Lambda Functions
 - Great Inventions
 - Acronym Guide
 - Epic Facts (Ongoing)
-- Cricket Plus (Under Certification + Developme) 
+- Cricket Plus (Under Certification + Development
 
 ## Language
 - Python
