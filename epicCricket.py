@@ -1,3 +1,5 @@
+# Lambda Function for Epic Cricket Skill
+
 import random
 
 cricketFacts = [
