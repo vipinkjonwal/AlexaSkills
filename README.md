@@ -16,7 +16,7 @@ Amazon Alexa Skills Lambda Functions
 - [Medium](www.medium.com)
 - [Codecademy](www.codecademy.com)
 
-## Develip
+## Developer
 - Vipin Kumar 
 
 
