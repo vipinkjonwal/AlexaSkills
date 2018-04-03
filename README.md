@@ -11,6 +11,9 @@ Amazon Alexa Skills Lambda Functions
 ## Language
 - Python
 
+## Upcoming Goal
+- API
+
 ## Reference
 - [Amazon Alexa!](alexa.amazon.com)
 - [Medium](www.medium.com)
