@@ -1,4 +1,6 @@
+
 # Lambda Function for Epic Cricket Skill
+# Type : Fact Skill
 
 import random
 
