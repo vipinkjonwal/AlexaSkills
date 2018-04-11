@@ -7,7 +7,7 @@ Amazon Alexa Skills Lambda Functions
 - Acronym Guide
 - Cricket Plus 
 - Doremon Facts (Ongoing) 
-- Tourism (April Skill
+- Tourism (April Skill) a
 
 ## Language
 - Python
