@@ -6,8 +6,7 @@ Amazon Alexa Skills Lambda Functions
 - Great Inventions
 - Acronym Guide
 - Cricket Plus 
-- Doremon Facts (Ongoing) 
-- Tourism (April Skill) 
+- Doremon Facts (Ongoing)
 
 ## Language
 - Python
