@@ -6,7 +6,6 @@ Amazon Alexa Skills Lambda Functions
 - Great Inventions
 - Acronym Guide
 - Cricket Plus 
-- Doremon Facts (Ongoing)
 
 ## Language
 - Python
