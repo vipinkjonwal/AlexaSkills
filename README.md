@@ -6,6 +6,7 @@ Amazon Alexa Skills Lambda Functions
 - Great Inventions
 - Acronym Guide
 - Cricket Plus 
+- Ted Inspirations 
 - Share Feelings
 
 ## Language
