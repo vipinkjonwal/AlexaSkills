@@ -7,7 +7,7 @@ Amazon Alexa Skills Lambda Functions
 - Acronym Guide
 - Cricket Plus 
 - Ted Inspirations 
-- Share Feelings
+- Share Feelings (May Skill) 
 
 ## Language
 - Python
